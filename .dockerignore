@@ -1,0 +1,10 @@
+node_modules
+dist
+certs
+acme
+.env
+.git
+.vite
+coverage
+*.local
+README.md
